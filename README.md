@@ -13,8 +13,8 @@ This project contains SQL queries used to explore and analyze a Netflix dataset.
 
 ## 🛠 Tools Used
 
-- SQL
-- MySQL (or any SQL-compatible tool)
+- SQL (PostgreSQL)
+- pgAdmin 4
 
 ## 📌 Purpose
 
@@ -30,9 +30,10 @@ The main goal of this project is to practice data analysis using SQL by working 
 
 ## ✅ How to Use
 
-1. Import the Netflix dataset into your SQL environment.
-2. Open the `netflix_sql_project.sql` file.
-3. Run the queries step-by-step to explore the dataset.
+1. Open pgAdmin 4 and connect to your PostgreSQL server.
+2. Import or create a table using the Netflix dataset.
+3. Open the `netflix_sql_project.sql` file in pgAdmin's query tool.
+4. Run the queries step-by-step to explore and analyze the dataset.
 
 ## 📚 Dataset Source
 
